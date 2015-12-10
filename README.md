@@ -1,10 +1,10 @@
 # newton-sysid2015
 
-This code was downloaded from < http://users.isy.liu.se/en/rt/manko/ > or < http://users.isy.liu.se/en/rt/johda87/ > and contains the code used to produce the results in the paper
+This code was downloaded from < http://users.isy.liu.se/en/rt/manko/ > or < http://liu.johandahlin.com/ > and contains the code used to produce the results in the paper
 
 * M. Kok, J. Dahlin, T. B. Schön and A. Wills, *Newton-based maximum likelihood estimation in nonlinear state space models*. Proceedings of the 17th IFAC Symposium on System Identification, Beijing, China, October 2015. 
 
-The papers are available as a preprint from < http://arxiv.org/pdf/1502.03655v2 >, < http://users.isy.liu.se/en/rt/manko/ > and < http://users.isy.liu.se/en/rt/johda87/ >.
+The papers are available as a preprint from < http://arxiv.org/pdf/1502.03655 >, < http://users.isy.liu.se/en/rt/manko/ > and < http://liu.johandahlin.com/ >.
 
 Requirements
 --------------
