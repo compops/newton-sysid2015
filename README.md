@@ -1,16 +1,19 @@
 # newton-sysid2015
 
-This code was downloaded from < http://users.isy.liu.se/en/rt/manko/ > or < http://liu.johandahlin.com/ > and contains the code used to produce the results in the paper
+This code was downloaded from < https://github.com/compops/newton-sysid2015 > and contains the code used to produce the results in the paper
 
-* M. Kok, J. Dahlin, T. B. Schön and A. Wills, *Newton-based maximum likelihood estimation in nonlinear state space models*. Proceedings of the 17th IFAC Symposium on System Identification, Beijing, China, October 2015. 
+M. Kok, J. Dahlin, T. B. Schön and A. Wills, **Newton-based maximum likelihood estimation in nonlinear state space models**. Proceedings of the 17th IFAC Symposium on System Identification, Beijing, China, October 2015. 
 
-The papers are available as a preprint from < http://arxiv.org/pdf/1502.03655 >, < http://users.isy.liu.se/en/rt/manko/ > and < http://liu.johandahlin.com/ >.
+The papers are available as a preprint at < http://arxiv.org/pdf/1502.03655 >.
 
 Requirements
 --------------
 For the linearization approximations, the program is written in Matlab 2014b. 
 
-For the sampling approximations, the program is written in Python 2.7 and makes use of NumPy 1.7.1, SciPy 0.12.0, Matplotlib 1.2.1, Pandas. Please have these packages installed, on Ubuntu they can be installed using "sudo pip install --upgrade *package-name* ".
+For the sampling approximations, the program is written in Python 2.7 and makes use of NumPy 1.7.1, SciPy 0.12.0, Matplotlib 1.2.1, Pandas. Please have these packages installed, on Ubuntu they can be installed using 
+```
+sudo pip install --upgrade *package-name*
+```
 
 Included folders
 --------------
